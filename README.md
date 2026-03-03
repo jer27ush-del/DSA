@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jer27ush-del/DSA/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/jer27ush-del/DSA/tree/master/0029-divide-two-integers) |
 | [0258-add-digits](https://github.com/jer27ush-del/DSA/tree/master/0258-add-digits) |
+| [2652-sum-multiples](https://github.com/jer27ush-del/DSA/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
